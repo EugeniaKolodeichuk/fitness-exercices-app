@@ -3,6 +3,10 @@ body {
   background-color: #FFFAFB;
 }
 
+.react-horizontal-scrolling-menu--scroll-container{
+  width: 1450px !important;
+}
+
 * {
   padding: 0px;
   margin: 0px;
